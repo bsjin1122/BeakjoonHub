@@ -14,3 +14,6 @@ class Solution {
         return answer;
     }
 }
+//      다른 사람의 푼 답
+//      int sum = String.valueOf(x).chars().map(ch -> ch - '0').sum();
+//      return x % sum == 0;
